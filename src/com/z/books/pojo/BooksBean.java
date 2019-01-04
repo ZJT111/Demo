@@ -1,4 +1,4 @@
-package com.z.gendseo.books.pojo;
+package com.z.books.pojo;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.z.gendseo.books.servlet;
+package com.z.books.servlet;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.z.gendseo.books.dao.BooksDao;
+import com.z.books.dao.BooksDao;
 
 /**
  * 后端 API 接口为 /BooksApi/*

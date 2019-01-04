@@ -1,4 +1,4 @@
-package com.z.gendseo.books.dao;
+package com.z.books.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -10,8 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.google.gson.Gson;
-
-import com.z.gendseo.books.pojo.*;
+import com.z.books.pojo.*;
 
 public class BooksDao {
 	
